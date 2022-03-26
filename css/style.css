@@ -1,8 +1,10 @@
 body {
     text-align: center;
-    background-color: linen;
-}
-li {
-    list-style: none;
+    font-family: 'メイリオ', 'Hiragino Kaku Gothic Pro', sans-serif;
+    background-color: rgb(255, 248, 253);
 }
 
+.Space1 {
+	margin-top: 6rem;
+}
+li{list-style: none}
